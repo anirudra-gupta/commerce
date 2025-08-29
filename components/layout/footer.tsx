@@ -45,7 +45,7 @@ export default async function Footer() {
           >
             <span className="px-3">▲</span>
             <hr className="h-full border-r border-neutral-200 dark:border-neutral-700" />
-            <span className="px-3">Deploy</span>
+            <span className="px-3">Infinity Services Providers</span>
           </a>
         </div>
       </div>
@@ -60,8 +60,8 @@ export default async function Footer() {
             <a href="https://github.com/vercel/commerce">View the source</a>
           </p>
           <p className="md:ml-auto">
-            <a href="https://vercel.com" className="text-black dark:text-white">
-              Created by ▲ Vercel
+            <a href="https://infinityservicesproviders.com" className="text-black dark:text-white">
+              Created by Infinity Services Providers
             </a>
           </p>
         </div>
