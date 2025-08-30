@@ -5,7 +5,7 @@ A high-performance, server-rendered Next.js App Router ecommerce application.
 
 ## Running locally
 
-You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js Commerce. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables) for this, but a `.env` file is all that is necessary.
+You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js Commerce. It's recommended you use for this, but a `.env` file is all that is necessary.
 
 > Note: You should not commit your `.env` file or it will expose secrets that will allow others to control your Shopify store.
 
@@ -30,6 +30,5 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 1. Run `pnpm dev` to ensure everything is working correctly.
 </details>
 
-## Vercel, Next.js Commerce, and Shopify Integration Guide
-
-You can use this comprehensive [integration guide](https://vercel.com/docs/integrations/ecommerce/shopify) with step-by-step instructions on how to configure Shopify as a headless CMS using Next.js Commerce as your headless Shopify storefront on Vercel.
+## Get this type of websites at  INFINITY SERVICES PROVIDERS
+infinityservicesproviders.com
